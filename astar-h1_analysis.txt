@@ -1,0 +1,10 @@
+Analysis of Algorithm: astar-h1
+=====
+Average Solution Length: 10.06
+Total Solution Length: 503
+Average Search Length: 1841.56
+Total Search Length: 92078
+Average No Solution: 0.0
+Total No Solution: 0
+Average Execution Time: 1.7546976280212403
+Total Execution Time: 87.73488140106201

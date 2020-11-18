@@ -1,0 +1,10 @@
+Analysis of Algorithm: ucs
+=====
+Average Solution Length: 6.2
+Total Solution Length: 310
+Average Search Length: 9329.4
+Total Search Length: 466470
+Average No Solution: 0.36
+Total No Solution: 18
+Average Execution Time: 33.207913341522215
+Total Execution Time: 1660.3956670761108

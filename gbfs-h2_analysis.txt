@@ -1,0 +1,10 @@
+Analysis of Algorithm: gbfs-h2
+=====
+Average Solution Length: 19.98
+Total Solution Length: 999
+Average Search Length: 65.32
+Total Search Length: 3266
+Average No Solution: 0.0
+Total No Solution: 0
+Average Execution Time: 0.019668397903442384
+Total Execution Time: 0.9834198951721191
